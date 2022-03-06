@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MultiDirection</string>
+
+    <string-array name="direction_array">
+        <item>TopLeftHorizontal</item>
+        <item>TopLeftVertical</item>
+        <item>TopRightHorizontal</item>
+        <item>TopRightVertical</item>
+        <item>BottomLeftHorizontal</item>
+        <item>BottomLeftVertical</item>
+        <item>BottomRightHorizontal</item>
+        <item>BottomRightVertical</item>
+    </string-array>
+</resources>
